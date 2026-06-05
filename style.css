@@ -1,0 +1,9 @@
+html{
+    background-color: pink;
+    font-family: system-ui, Arial, sans-serif;
+
+p{
+    color: yellow;
+    background-color: black;
+    border: 2px solid black;
+}
